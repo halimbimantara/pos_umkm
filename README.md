@@ -4,6 +4,9 @@
 
  - Edit ->  app/config/database.php
  
+# LOGIN
+ - username :owner@tecdiary.com
+ - password :12345678 
  
  
 
