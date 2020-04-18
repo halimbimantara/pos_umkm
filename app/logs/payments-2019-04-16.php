@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+INFO - 2019-04-16 14:13:46 --> Paypal IPN called (127.0.0.1) 
+INFO - 2019-04-16 14:13:47 --> Paypal IPN - VERIFIED (127.0.0.1) 
+SUCCESS - 2019-04-16 14:13:48 --> Payment has been made for Sale Reference #SALE2019/04/0003 via Paypal (9ET33680DP920382S). (127.0.0.1) {"payer_email":"saleem-buyer@tecdiary.com","payer_id":"XXBSC29URZ2XY","payer_status":"VERIFIED","first_name":"Test","last_name":"Buyer","txn_id":"9ET33680DP920382S","mc_currency":"USD","mc_fee":"1.39","mc_gross":"28.00","protection_eligibility":"ELIGIBLE","payment_fee":"1.39","payment_gross":"28.00","payment_status":"Completed","payment_type":"instant","item_name":"SALE2019\/04\/0003","item_number":"5","quantity":"1","txn_type":"web_accept","payment_date":"2019-04-16T06:13:36Z","business":"saleem-facilitator@tecdiary.com","receiver_id":"GU8UPUNMNNAEY","notify_version":"UNVERSIONED","custom":"SALE2019\/04\/0003__28__0","verify_sign":"Ama9GCjDA.25FjPvZXud-EL-Q1IZAO42csVHz-AhNhlVCIi.2cMbKwua"}
